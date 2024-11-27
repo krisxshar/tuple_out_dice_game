@@ -7,10 +7,15 @@ The Tuple Out Dice Game is a turn-based dice game where players compete to score
 Features
 
 *Turn-based gameplay for multiple players
+
 *Dice are “fixed” when two show the same value and cannot be re-rolled
+
 *Players re-roll any non-fixed dice to improve their score
+
 *Rolling three of the same number (“tupling out”) ends the turn with zero points
+
 *The game tracks and displays running scores after each turn
+
 *The first player to reach the target score wins
 
 How to Run The Program
