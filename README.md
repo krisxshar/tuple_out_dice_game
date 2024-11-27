@@ -20,29 +20,35 @@ Features
 
 How to Run The Program
 
+
 Prerequisites
 
-Python 3.7 or higher must be installed on your computer
+*Python 3.7 or higher must be installed on your computer
 
-Ensure the script file is named dice_game.py
+
+
+*Ensure the script file is named dice_game.py
 
 Steps to Run
 
-Open a terminal or command prompt.
+1. Open a terminal or command prompt.
 
-Navigate to the directory where the program file is located
+2. Navigate to the directory where the program file is located
 
-Run the program with the following command: python dice_game.py
+3. Run the program with the following command: python dice_game.py
 
-Follow the on-screen prompts to:
+4. Follow the on-screen prompts to:
 
-Enter player names.
 
-Take turns rolling and re-rolling dice.
+*Enter player names.
 
-View scores after each turn.
 
-The game will end when a player reaches the target score.
+*Take turns rolling and re-rolling dice.
+
+
+*View scores after each turn.
+
+5. The game will end when a player reaches the target score.
 
 Repository Information
 
