@@ -30,8 +30,11 @@ Navigate to the directory where the program file is located
 Run the program with the following command: python dice_game.py
 
 Follow the on-screen prompts to:
+
 Enter player names.
+
 Take turns rolling and re-rolling dice.
+
 View scores after each turn.
 
 The game will end when a player reaches the target score.
