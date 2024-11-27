@@ -18,6 +18,7 @@ How to Run The Program
 Prerequisites
 
 Python 3.7 or higher must be installed on your computer
+
 Ensure the script file is named dice_game.py
 
 Steps to Run
