@@ -51,4 +51,5 @@ Includes at least two meaningful commits:
 
 Contains the Following Files:
 dice_game.py : The Python script implementing the game.
+
 README.md: This documentation. 
