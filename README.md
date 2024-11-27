@@ -24,8 +24,11 @@ Ensure the script file is named dice_game.py
 Steps to Run
 
 Open a terminal or command prompt.
+
 Navigate to the directory where the program file is located
+
 Run the program with the following command: python dice_game.py
+
 Follow the on-screen prompts to:
 Enter player names.
 Take turns rolling and re-rolling dice.
@@ -37,7 +40,9 @@ Repository Information
 
 The project is organized as a Git repository
 Includes at least two meaningful commits:
+
 -Commit 1: Project setup and initial game structure
+
 -Commit 2: Completed game logic, added features, and polished output.
 
 
