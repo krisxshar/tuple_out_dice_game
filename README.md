@@ -16,10 +16,12 @@ The first player to reach the target score wins
 How to Run The Program
 
 Prerequisites
-Python 3.7
+
+Python 3.7 or higher must be installed on your computer
 Ensure the script file is named dice_game.py
 
 Steps to Run
+
 Open a terminal or command prompt.
 Navigate to the directory where the program file is located
 Run the program with the following command: python dice_game.py
@@ -31,6 +33,7 @@ View scores after each turn.
 The game will end when a player reaches the target score.
 
 Repository Information
+
 The project is organized as a Git repository
 Includes at least two meaningful commits:
 -Commit 1: Project setup and initial game structure
